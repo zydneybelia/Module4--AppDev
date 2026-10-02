@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2026-10-02 14:42:00</sys_created_on>
-            <sys_id>6b3c4e739c6b03107f44fa66d6f4be4e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>depot</sys_name>
             <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">b1914eff9ce703107f44fa66d6f4be3f</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2026-10-02 14:42:00</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>633c4e739c6b03107f44fa66d6f4be4e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-10-02 14:42:00</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2026-10-02 14:42:00</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>673c4e739c6b03107f44fa66d6f4be5c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-10-02 14:42:00</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2026-10-02 14:42:00</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6f3c4e739c6b03107f44fa66d6f4be69</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-10-02 14:42:00</sys_updated_on>
@@ -90,7 +86,6 @@
             <sys_created_on>2026-10-02 14:42:00</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>673c4e739c6b03107f44fa66d6f4be77</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-10-02 14:42:00</sys_updated_on>
@@ -110,7 +105,6 @@
             <sys_created_on>2026-10-02 14:42:00</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6f3c4e739c6b03107f44fa66d6f4be84</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-10-02 14:42:00</sys_updated_on>
@@ -130,7 +124,6 @@
             <sys_created_on>2026-10-02 14:42:00</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>673c4e739c6b03107f44fa66d6f4be92</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-10-02 14:42:00</sys_updated_on>
@@ -150,7 +143,6 @@
             <sys_created_on>2026-10-02 14:42:00</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6f3c4e739c6b03107f44fa66d6f4be9f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2026-10-02 14:42:00</sys_updated_on>
