@@ -42,7 +42,9 @@
 <p data-uuid="5fcfab5a214c4437af0e75fdbe47b225"><span style="font-size: 10pt;">The <strong>${item_type} (${cmdb_ci})</strong> is available for pick up at<strong> ${depot}.</strong></span></p>
 <p data-uuid="5fcfab5a214c4437af0e75fdbe47b225">&nbsp;</p>
 <p data-uuid="0ad552a5a74a41fc8f0a867474da3d14">Y<span style="font-size: 10pt;">our reservation is scheduled to begin <strong>${start_date}.</strong> Please return the item to the same location you picked it up by <strong>${end_date}.</strong></span></p>
-<p data-uuid="65f145b3de1f41cbb602640dea0c2b3f"><span style="font-size: 10pt;">You will receive a return reminder notification.</span></p>]]></message_html>
+<p data-uuid="65f145b3de1f41cbb602640dea0c2b3f"><span style="font-size: 10pt;">You will receive a return reminder notification.</span></p>
+<p data-uuid="65f145b3de1f41cbb602640dea0c2b3f">&nbsp;</p>
+<p>${mail_script:x_cdltd_loaner_r_0_loaner_request_script_1}</p>]]></message_html>
         <message_list/>
         <message_text/>
         <name>Loaner Item Pick Up</name>
@@ -64,7 +66,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c04958eb908013107f441e203856dfd8</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Loaner Item Pick Up</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">b1914eff9ce703107f44fa66d6f4be3f</sys_package>
@@ -72,7 +74,7 @@
         <sys_scope display_value="Loaner Request">b1914eff9ce703107f44fa66d6f4be3f</sys_scope>
         <sys_update_name>sysevent_email_action_c04958eb908013107f441e203856dfd8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-10-26 08:20:09</sys_updated_on>
+        <sys_updated_on>2026-10-29 11:51:50</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>
