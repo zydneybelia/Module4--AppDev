@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>8e0c45ab90c413107f441e203856df33</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="x_cdltd_loaner_r_0_loaner_request">
+    <x_cdltd_loaner_r_0_loaner_request action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to/>
+        <assignment_group/>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at>2026-10-26 11:55:10</closed_at>
+        <closed_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</closed_by>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <depot>sc</depot>
+        <description/>
+        <due_date/>
+        <end_date>2026-10-27 11:54:44</end_date>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <item_type>cmdb_ci_mobile_device</item_type>
+        <knowledge>false</knowledge>
+        <location/>
+        <location_to_be_used/>
+        <made_sla>true</made_sla>
+        <number>LNR002025</number>
+        <opened_at>2026-10-26 11:54:22</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <other/>
+        <parent/>
+        <pick_up_reminder>2026-10-26 12:09:30</pick_up_reminder>
+        <priority>4</priority>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <requested_for display_value="Katina Ramano">fa826bf03710200044e0bfc8bcbe5dff</requested_for>
+        <route_reason/>
+        <service_offering/>
+        <short_description/>
+        <sla_due/>
+        <start_date>2026-10-26 11:54:41</start_date>
+        <state>4</state>
+        <sys_class_name>x_cdltd_loaner_r_0_loaner_request</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-26 11:55:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8e0c45ab90c413107f441e203856df33</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-26 12:09:30</sys_updated_on>
+        <task_effective_number>LNR002025</task_effective_number>
+        <time_worked/>
+        <universal_request/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_cdltd_loaner_r_0_loaner_request>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-29 10:00:40</sys_created_on>
+        <sys_id>bdcec864c05013107f44a033538987e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LNR002025</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">b1914eff9ce703107f44fa66d6f4be3f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">b1914eff9ce703107f44fa66d6f4be3f</sys_scope>
+        <sys_update_name>sys_metadata_link_bdcec864c05013107f44a033538987e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-29 10:00:40</sys_updated_on>
+        <tablename>x_cdltd_loaner_r_0_loaner_request</tablename>
+    </sys_metadata_link>
+</record_update>
