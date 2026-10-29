@@ -4,7 +4,7 @@
         <documentkey>e5476c5f790813107f446e6e34cc4a06</documentkey>
         <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="x_cdltd_loaner_r_0_loaner_request">
     <x_cdltd_loaner_r_0_loaner_request action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <activity_due/>
         <additional_assignee_list/>
         <approval>not requested</approval>
@@ -16,8 +16,8 @@
         <business_service/>
         <calendar_duration/>
         <close_notes/>
-        <closed_at/>
-        <closed_by/>
+        <closed_at>2026-10-29 11:37:06</closed_at>
+        <closed_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</closed_by>
         <cmdb_ci display_value="*ANNIE-IBM">b4fd7c8437201000deeabfc8bcbe5dc1</cmdb_ci>
         <comments/>
         <comments_and_work_notes/>
@@ -48,7 +48,7 @@
         <order/>
         <other/>
         <parent/>
-        <pick_up_reminder/>
+        <pick_up_reminder>2026-10-29 11:43:01</pick_up_reminder>
         <priority>4</priority>
         <reassignment_count>0</reassignment_count>
         <rejection_goto/>
@@ -58,16 +58,16 @@
         <short_description>test</short_description>
         <sla_due/>
         <start_date>2026-10-23 15:10:52</start_date>
-        <state>10</state>
+        <state>4</state>
         <sys_class_name>x_cdltd_loaner_r_0_loaner_request</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-10-25 14:36:06</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e5476c5f790813107f446e6e34cc4a06</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-10-25 15:11:19</sys_updated_on>
+        <sys_updated_on>2026-10-29 11:43:01</sys_updated_on>
         <task_effective_number>LNR002006</task_effective_number>
         <time_worked/>
         <universal_request/>
@@ -89,14 +89,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-10-29 10:00:40</sys_created_on>
         <sys_id>3dcec864c05013107f44a033538987cb</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>LNR002006</sys_name>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">b1914eff9ce703107f44fa66d6f4be3f</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">b1914eff9ce703107f44fa66d6f4be3f</sys_scope>
         <sys_update_name>sys_metadata_link_3dcec864c05013107f44a033538987cb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-10-29 10:00:40</sys_updated_on>
+        <sys_updated_on>2026-10-29 12:25:14</sys_updated_on>
         <tablename>x_cdltd_loaner_r_0_loaner_request</tablename>
     </sys_metadata_link>
 </record_update>
